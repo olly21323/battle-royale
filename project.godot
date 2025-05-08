@@ -1,0 +1,6 @@
+[gd_resource type="ProjectSettings" load_steps=2 format=2]
+
+[application]
+
+config/name="BattleRoyaleAI"
+run/main_scene="res://scenes/Main.tscn"
